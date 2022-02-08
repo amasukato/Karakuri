@@ -754,7 +754,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\Karakuri_Project
+  m_LastProjectPath: D:\Karakuri\Karakuri_Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -816,7 +816,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000cc8c0000d877000052a1000084450000c4960000b8960000bc790000f09e0000f48f0000cc790000ae7900004ca00500c09b00002c460000f6670f00149c3a0074770000268f01000c8a000094a300000e01010020670000e06a0f00de8e00003e022000b87700003ab13700ba860000d29d000090770000aeb30000466e0200f0db000082dc000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
